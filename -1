@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gilbitron/laravel-migrate-to-branch": "^1.0"
+    }
+}
