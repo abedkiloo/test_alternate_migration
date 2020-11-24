@@ -165,7 +165,6 @@ return [
         /*
          * Package Service Providers...
          */
-        Gilbitron\Laravel\MigrateToBranchServiceProvider::class,
 
         /*
          * Application Service Providers...
